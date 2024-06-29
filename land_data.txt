@@ -1,0 +1,24 @@
+4,Land B,44.0,Corn
+5,LAND FG,120.0,Rice
+7,Farm A,100.5,Wheat
+9,Farm C,120.0,Rice
+11,Farm E,110.3,Soybean
+12,Farm F,80.5,Oats
+13,Farm G,95.2,Cotton
+14,Farm H,130.0,Potato
+15,Farm I,88.7,Tomato
+18,Farm L,115.2,Lettuce
+19,Farm M,78.9,Broccoli
+20,Farm N,102.3,Spinach
+21,Farm O,125.6,Kale
+22,Farm P,95.8,Pepper
+23,Farm Q,110.7,Onion
+24,Farm R,82.4,Radish
+25,Farm S,117.9,Zucchini
+26,Farm T,68.2,Cucumber
+27,Farm U,98.6,Eggplant
+28,Farm V,112.4,Pumpkin
+30,Farm X,122.8,Asparagus
+31,Farm Y,84.6,Beetroot
+33,LAND F,20.0,Rice
+36,as,12.0,as
